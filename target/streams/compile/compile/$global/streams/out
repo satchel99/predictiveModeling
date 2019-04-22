@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:51:23: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX.head.genes = fittest.genes[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:52:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(1).genes = second_fittest.genes[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:53:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(2).genes = CrazyMutantSex(GenZero.head).genes[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:54:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(3).genes = CrazyMutantSex(GenZero.head).genes[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:56:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(4).genes = makeBabies(GenZero(0) , GenZero(1)).genes //AB[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:57:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(5).genes = makeBabies(GenZero(0) , GenZero(2)).genes  // AC[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:58:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(6).genes = makeBabies(GenZero(0) , GenZero(3)).genes  //AD[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:59:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(7).genes = makeBabies(GenZero(1) , GenZero(2)).genes  //BC[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:60:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(8).genes = makeBabies(GenZero(1) , GenZero(3)).genes  // BD[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:61:21: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m      GenX(9).genes = makeBabies(GenZero(2) , GenZero(3)).genes // CD[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/GeneticAlgorithm.scala:95:57: reassignment to val[0m
+[0m[[0m[31merror[0m] [0m[0m        TeenageNinjaMutantTurtleBaby.genes(i).geneValue = A.genes(i).geneValue + ((-1 + Math.random * (1.0 - (-1))) * 0.01)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m11 errors found[0m

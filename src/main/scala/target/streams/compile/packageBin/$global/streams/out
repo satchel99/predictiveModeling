@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/scala_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/geometry/Polynomial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/geometry/Polynomial.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/GeneticAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/GeneticAlgorithm$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/genes/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/genes/Animal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/geometry/Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/geometry/Point.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/genes/Gene.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/genes/Gene.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/geometry/Line.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/geometry/Line.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/genes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/genes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/geometry[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/geometry[0m
+[0m[[0m[0mdebug[0m] [0m[0m	genetics/GeneticAlgorithm.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/satchel/Documents/softdev/UB/CSE116/genetics/src/main/scala/target/scala-2.12/classes/genetics/GeneticAlgorithm.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

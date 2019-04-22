@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestLinearRegression:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- testing linear regreszsion *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  15.223783494968188 was greater than 11, but 15.223783494968188 was not less than 14 y = 15.224x + 119.406 (TestLinearRegression.scala:14)[0m[0m

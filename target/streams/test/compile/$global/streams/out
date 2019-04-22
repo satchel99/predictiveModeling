@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/test/scala/TestPolynomialRegression.scala:14:37: identifier expected but integer literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m        assert((result.coefficients[0] > 1) && (result.coefficients < 2), result);[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/satchel/Documents/softdev/UB/CSE116/genetics/src/test/scala/TestPolynomialRegression.scala:16:2: ']' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m	}[0m
+[0m[[0m[31merror[0m] [0m[0m	^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
